@@ -39,4 +39,4 @@
 ```
 ## Kết quả:
 
-![Kết quả hiện thị:](href="/images/Ketqua.png")
+![Kết quả hiện thị:](<img src="/images/Ketqua.png" alt="Picture")
