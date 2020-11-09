@@ -39,4 +39,4 @@
 ```
 ## Kết quả:
 
-![Kết quả hiện thị:]("/images/Ketqua.png" )
+![Kết quả hiện thị:]("/images/logo.png" )
