@@ -39,4 +39,4 @@
 ```
 ## Kết quả:
 
-![Kết quả hiện thị:]("/images/ketqua.png" )
+![Kết quả hiện thị:](images/trangchu.png )
